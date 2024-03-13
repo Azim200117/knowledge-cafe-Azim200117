@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/rxZYW0z/book-5.jpg",
+    "title": "The Adventure Begins",
+    "author": "John Doe",
+    "author_Img": "https://i.ibb.co/QbGwmqh/Man1.jpg",
+    "posted_date": "2024-03-13",
+    "reading_time": "45",
+    "hashtags": ["adventure", "journey", "fiction"]
+  },
+  
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/gtpQ4r4/book-4.jpg",
+    "title": "Secrets of the Unknown",
+    "author": "Jane Smith",
+    "author_Img": "https://i.ibb.co/KL8RncZ/man2.jpg",
+    "posted_date": "2024-03-12",
+    "reading_time": "60",
+    "hashtags": ["mystery", "thriller", "suspense"]
+  },
+  
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/XyLB3wq/book-3.jpg",
+    "title": "The Lost Kingdom",
+    "author": "David Johnson",
+    "author_Img": "https://i.ibb.co/YPVkcB2/man3.jpg",
+    "posted_date": "2024-03-11",
+    "reading_time": "50",
+    "hashtags": ["fantasy", "quest", "magic"]
+  },
+  
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/frNdyPk/book-2.jpg",
+    "title": "Surviving the Wild",
+    "author": "Emily Brown",
+    "author_Img": "https://i.ibb.co/tBvkjnF/man4.jpg",
+    "posted_date": "2024-03-10",
+    "reading_time": "55",
+    "hashtags": ["wilderness", "survival", "nature"]
+  },
+  
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/X53qdJK/book-1.jpg",
+    "title": "Into the Depths",
+    "author": "Michael Lee",
+    "author_Img": "https://i.ibb.co/sy0t3Hn/man5.jpg",
+    "posted_date": "2024-03-09",
+    "reading_time": "40",
+    "hashtags": ["deepsea", "exploration", "underwater"]
+  }
+  
+]
